@@ -89,7 +89,7 @@ This isn't just another ML project - it's a complete **Customer Intelligence Pla
 1. **Clone the repository**
    ```bash
    git clone [repository-url]
-   cd customer-churn-api
+   cd Customer_Churn_API
    ```
 
 2. **Create virtual environment** (🔥 Highly recommended!)
@@ -317,8 +317,8 @@ We ❤️ contributions! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/mihirsuhanda/customer-churn-api.git
-cd customer-churn-api
+git clone https://github.com/BOT-MIHIR/Customer_Churn_API.git
+cd Customer_Churn_API
 
 # Install development dependencies
 pip install -r requirements.txt
@@ -364,9 +364,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 *Transforming businesses through intelligent customer analytics* 🚀
 
-[![GitHub stars](https://img.shields.io/github/stars/mihirsuhanda/customer-churn-api?style=social)](https://github.com/mihirsuhanda/customer-churn-api)
-[![GitHub forks](https://img.shields.io/github/forks/mihirsuhanda/customer-churn-api?style=social)](https://github.com/mihirsuhanda/customer-churn-api)
-[![GitHub watchers](https://img.shields.io/github/watchers/mihirsuhanda/customer-churn-api?style=social)](https://github.com/mihirsuhanda/customer-churn-api)
+[![GitHub stars](https://img.shields.io/github/stars/BOT-MIHIR/Customer_Churn_API?style=social)](https://github.com/BOT-MIHIR/Customer_Churn_API)
+[![GitHub forks](https://img.shields.io/github/forks/BOT-MIHIR/Customer_Churn_API?style=social)](https://github.com/BOT-MIHIR/Customer_Churn_API)
+[![GitHub watchers](https://img.shields.io/github/watchers/BOT-MIHIR/Customer_Churn_API?style=social)](https://github.com/BOT-MIHIR/Customer_Churn_API)
 
 </div>
 
