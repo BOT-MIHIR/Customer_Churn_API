@@ -358,7 +358,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <div align="center">
 
-### 🌟 Made with ❤️ by [Mihir Suhanda](https://github.com/mihirsuhanda)
+### 🌟 Made by [Mihir Suhanda](https://github.com/mihirsuhanda)
 
 **If this project helped you, please consider giving it a ⭐!**
 
